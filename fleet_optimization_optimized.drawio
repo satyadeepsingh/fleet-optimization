@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-14T07:01:23.956Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="SbpAKmFrlSD_Psi578FY" version="14.8.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-14T07:08:47.815Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="0Mr3dsijmLJrzJweig7d" version="14.8.6" type="github">
   <diagram id="D4vt_JizwiGhyIq_tCMl" name="Page-1">
     <mxGraphModel dx="2205" dy="1906" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -313,6 +313,47 @@
         </mxCell>
         <mxCell id="gMruiBbs81_NsQWsztjA-5" value="Lambda Function/Transform data&amp;nbsp;" style="outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#232F3E;fillColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.lambda_function;" vertex="1" parent="1">
           <mxGeometry x="1370" y="-413.5" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gMruiBbs81_NsQWsztjA-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.995;entryY=0.63;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="gMruiBbs81_NsQWsztjA-8" target="d7MVmfg-RTv1msQ8y9jw-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gMruiBbs81_NsQWsztjA-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="gMruiBbs81_NsQWsztjA-8" target="d7MVmfg-RTv1msQ8y9jw-106">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="501" y="-190" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gMruiBbs81_NsQWsztjA-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="gMruiBbs81_NsQWsztjA-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1010" y="-340" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1010" y="-280" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gMruiBbs81_NsQWsztjA-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="gMruiBbs81_NsQWsztjA-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="530" y="381" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="570" y="-210" />
+              <mxPoint x="570" y="381" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gMruiBbs81_NsQWsztjA-8" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/kibana-128.png" vertex="1" parent="1">
+          <mxGeometry x="632" y="-298" width="128" height="128" as="geometry" />
+        </mxCell>
+        <mxCell id="gMruiBbs81_NsQWsztjA-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="gMruiBbs81_NsQWsztjA-10" target="d7MVmfg-RTv1msQ8y9jw-173">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="630" y="-9" />
+              <mxPoint x="501" y="-9" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gMruiBbs81_NsQWsztjA-10" value="ELK Stack For central monitoring/ log viewing by Prod support team" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="500" y="-169.25" width="380" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
